@@ -1,4 +1,4 @@
-# Contributing to the Alibaba Cloud C++ Software Development Kit
+# Contributing to this SDK project
 
 We work hard to provide a high-quality and useful SDK for Alibaba Cloud, and
 we greatly value feedback and contributions from our community. Please submit
